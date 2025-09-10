@@ -1,0 +1,40 @@
+{
+  "karthik  bharadwaj": {
+    "username": "karthik  bharadwaj",
+    "email": "karthikpoduru9@gmail.com",
+    "password_hash": "d8045a818734105d55ba22c054d68402c39e51aeab2e1bb16f5988f3b62e442e",
+    "created_at": "2025-09-10T23:50:40.690422",
+    "last_login": "2025-09-10T23:51:29.609017",
+    "stories": {},
+    "preferences": {
+      "default_genre": "fantasy",
+      "default_mood": "epic",
+      "preferred_duration": "medium"
+    },
+    "statistics": {
+      "stories_created": 0,
+      "stories_completed": 0,
+      "discussion_rounds": 0,
+      "total_time_spent": 0
+    }
+  },
+  "karthik bharadwaj": {
+    "username": "karthik bharadwaj",
+    "email": "karthikpoduru3@gmail.com",
+    "password_hash": "d8045a818734105d55ba22c054d68402c39e51aeab2e1bb16f5988f3b62e442e",
+    "created_at": "2025-09-11T00:29:36.314905",
+    "last_login": "2025-09-11T00:45:42.651046",
+    "stories": {},
+    "preferences": {
+      "default_genre": "fantasy",
+      "default_mood": "epic",
+      "preferred_duration": "medium"
+    },
+    "statistics": {
+      "stories_created": 0,
+      "stories_completed": 0,
+      "discussion_rounds": 0,
+      "total_time_spent": 0
+    }
+  }
+}
